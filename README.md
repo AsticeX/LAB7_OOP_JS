@@ -1,1 +1,3 @@
-# LAB7_OOP_JS
+LAB7
+Name:Ukrit Nhukang
+Section 336B
